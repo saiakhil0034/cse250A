@@ -1,2 +1,2 @@
 # cse250A
-CSE 250A course taught Prof. Lawrence K. Saul, Fall 2019
+CSE 250A course taught by Prof. Lawrence K. Saul, Fall 2019
